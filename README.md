@@ -13,4 +13,4 @@ We use four HAR datasets:
 - WISDM
 - USC-HAD
   
-Preprocessed data are available for download here: [https://drive.google.com/drive/folders/1Jc9ePhLU8rLcqHEP6eeD9tcSIHTr-8ng?usp=drive_link]
+Preprocessed data are available for download here: [**gdrive**](https://drive.google.com/drive/folders/1Jc9ePhLU8rLcqHEP6eeD9tcSIHTr-8ng?usp=drive_link)
